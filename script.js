@@ -1,4 +1,4 @@
-let BACKEND_URL = 'http://localhost:3000';
+let BACKEND_URL = 'https://d1zd8tobvl0iok.cloudfront.net/';
 
 
 if (BACKEND_URL[BACKEND_URL.length - 1] === '/') {
